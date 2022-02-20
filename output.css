@@ -527,10 +527,6 @@ html {
   bottom: 0%;
 }
 
-.left-\[30\%\] {
-  left: 30%;
-}
-
 .my-auto {
   margin-top: auto;
   margin-bottom: auto;
@@ -573,10 +569,6 @@ html {
 
 .w-full {
   width: 100%;
-}
-
-.w-\[80\%\] {
-  width: 80%;
 }
 
 .w-10 {
@@ -634,6 +626,10 @@ html {
   padding: 1rem;
 }
 
+.p-8 {
+  padding: 2rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -644,6 +640,15 @@ html {
 
 .align-bottom {
   vertical-align: bottom;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.font-medium {
+  font-weight: 500;
 }
 
 .text-\[\#5EF2AD\] {
